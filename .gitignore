@@ -1,0 +1,18 @@
+#### Unreal Engine
+
+## Default
+Intermediate/
+Saved/
+Binaries/
+DerivedDataCache/
+
+## Extra
+Content/StarterContent/HDRI
+Content/StarterContent/Textures
+
+### Visual Studio
+
+## Default
+*.VC.db
+*.VC.opendb
+*.sln
